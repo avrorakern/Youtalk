@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Montserrat-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("C:/Users/Avror_000/Desktop/проги/skillfactory/YouTalk/fonts/Montserrat-Medium.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("C:/Users/Avror_000/Desktop/проги/skillfactory/YouTalk/fonts/Montserrat-Bold.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("C:/Users/Avror_000/Desktop/проги/skillfactory/YouTalk/fonts/Montserrat-Regular.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("C:/Users/Avror_000/Desktop/проги/skillfactory/YouTalk/fonts/Montserrat-SemiBold.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "OpenSans-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("C:/Users/Avror_000/Desktop/проги/skillfactory/YouTalk/fonts/OpenSans-Regular.woff2") format("woff");
+}
